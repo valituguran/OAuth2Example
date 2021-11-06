@@ -1,1 +1,1 @@
-# OAuth2Example
+# OAuth2Example Spring Boot application example
