@@ -56,7 +56,7 @@ public class OAuth2Config {
             }
 
             throw new OAuth2AuthenticationException(new OAuth2Error("invalid_token",
-                    "Not in Spring Team", ""));
+                    "Not in the Team", ""));
         };
     }
 
